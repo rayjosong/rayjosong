@@ -9,7 +9,7 @@
 - 🏋🏼‍♀️ I'm currently a huge fan of reading books on the topics of tech & business
 - 🧑🏼‍💻 Check out my portfolio site: [Raymond's Portfolio Page](https://raymond-portfolio-react.herokuapp.com/)
 - 💬 Ask me about freelancing services for full-stack applications
-- 📫 How to reach me: Email me at [raymondong.dev@gmail.com](mailto:raymondong.dev@gmail.com]
+- 📫 How to reach me: Email me at [raymondong.dev@gmail.com]
 
 
 
